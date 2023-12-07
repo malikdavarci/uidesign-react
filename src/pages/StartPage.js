@@ -1,8 +1,11 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 const StartPage = () => {
   return (
-    <div>StartPage</div>
+    <div>
+       <button><Link to="/day278">Day 278</Link></button>
+    </div>
   )
 }
 
