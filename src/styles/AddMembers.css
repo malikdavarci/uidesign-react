@@ -1,0 +1,52 @@
+.text {
+    color: #505050;
+    font-family: Roboto;
+    font-size: 1.75rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    margin-top: 1.5rem;
+    margin-left: 3.56rem;
+
+    
+}
+
+form {
+    margin-left: 3.56rem;
+    margin-top: 1.56rem;
+}
+ form input {
+    all: unset;
+    padding-bottom: 1.12rem;
+    padding-right: 16rem;
+    border-bottom: 0.15rem solid rgba(221, 221, 221, 1);
+ }
+
+ form input::placeholder {
+    color: #939393;
+    font-family: Roboto;
+    font-size: 1.4375rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+ }
+
+ form button {
+    all: unset;
+    width: 5.375rem;
+    height: 3.9375rem;
+    flex-shrink: 0;
+    margin-left: 1.5rem;
+
+    border-radius: 0.625rem;
+    background: rgba(196, 196, 196, 0.10);
+
+    color: #2D9CDB;
+    font-family: Roboto;
+    font-size: 1.4375rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+ }
