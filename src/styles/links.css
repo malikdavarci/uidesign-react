@@ -1,0 +1,21 @@
+.linkscontainer button {
+    display: flex;
+    width: 23.0625rem;
+    padding: 1rem;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+
+    border-radius: 0.5rem;
+    background: var(--291-f-68, #291F68);
+}
+/* 
+.linkscontainer p {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+} */
+

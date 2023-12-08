@@ -1,0 +1,10 @@
+.container1570 {
+    display: flex;
+    width: 100rem;
+    height: 75rem;
+    padding: 17.5rem 20.375rem;
+    justify-content: center;
+    align-items: center;
+
+    background: #DFE2FF;
+}

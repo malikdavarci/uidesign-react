@@ -1,4 +1,4 @@
-import '../styles/AddMembers.css'
+import '../styles/addMembers.css'
 import Forms from './Forms'
 
 
